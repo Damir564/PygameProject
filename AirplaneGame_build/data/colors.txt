@@ -1,0 +1,44 @@
+Airplane
+x=283, y=200
+#e8e84a
+Red: 232
+Green: 232
+Blue: 74
+----
+Dirt
+x=201, y=272
+#355f18
+Red: 53
+Green: 95
+Blue: 24
+----
+Water
+x=120, y=154
+#2f32b6
+Red: 47
+Green: 50
+Blue: 182
+----
+Bridge
+x=262, y=351
+#7d2c00
+Red: 125
+Green: 44
+Blue: 0
+----
+Ship
+1)x=331, y=81
+#000000
+Red: 0
+Green: 0
+Blue: 0
+2)x=341, y=94
+#a33915
+Red: 163
+Green: 57
+Blue: 21
+3)x=343, y=100
+#54a0c5
+Red: 84
+Green: 160
+Blue: 197
