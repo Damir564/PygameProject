@@ -1,2 +1,2 @@
 # PygameProject
-AirDestroyer
+AirDestroyer 2D game.
